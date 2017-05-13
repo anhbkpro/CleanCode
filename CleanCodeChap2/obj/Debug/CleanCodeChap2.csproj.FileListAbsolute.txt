@@ -1,0 +1,6 @@
+C:\CP Improvement\Programming\Best books of all time\CleanCodeWorkspace\CleanCode\CleanCodeChap2\bin\Debug\CleanCodeChap2.exe.config
+C:\CP Improvement\Programming\Best books of all time\CleanCodeWorkspace\CleanCode\CleanCodeChap2\bin\Debug\CleanCodeChap2.exe
+C:\CP Improvement\Programming\Best books of all time\CleanCodeWorkspace\CleanCode\CleanCodeChap2\bin\Debug\CleanCodeChap2.pdb
+C:\CP Improvement\Programming\Best books of all time\CleanCodeWorkspace\CleanCode\CleanCodeChap2\obj\Debug\CleanCodeChap2.csprojResolveAssemblyReference.cache
+C:\CP Improvement\Programming\Best books of all time\CleanCodeWorkspace\CleanCode\CleanCodeChap2\obj\Debug\CleanCodeChap2.exe
+C:\CP Improvement\Programming\Best books of all time\CleanCodeWorkspace\CleanCode\CleanCodeChap2\obj\Debug\CleanCodeChap2.pdb
